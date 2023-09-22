@@ -2,5 +2,11 @@
 	"FileVersion": 3,
 	"EngineAssociation": "{C42E939E-4EBA-9B9E-BEEC-AD870D87436A}",
 	"Category": "",
-	"Description": ""
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "ControlRig",
+			"Enabled": true
+		}
+	]
 }
