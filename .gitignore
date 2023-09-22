@@ -6,9 +6,12 @@
 =======
 
 Content/StarterContent/*
-
-
-
+Content/Weapons/*
+Content/MigratedAssets/*
+Content/ThirdPerson/*
+Content/ThirdPersonBP/*
+Content/CustomizableArmsAnims/*
+Content/Mannequin/*
 =======
 
 # Visual Studio 2015 user specific files

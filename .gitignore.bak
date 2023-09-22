@@ -5,10 +5,12 @@
 # we do not need to version control the Starter Content and the Assets we got from the market place
 =======
 
-Content/SterterContent/*
-
-
-
+Content/StarterContent/*
+Content/Weapons/*
+Content/MigratedAssets/*
+Content/ThirdPerson/*
+Content/ThirdPersonBP/*
+Content/CustomizableArmsAnims/*
 =======
 
 # Visual Studio 2015 user specific files
